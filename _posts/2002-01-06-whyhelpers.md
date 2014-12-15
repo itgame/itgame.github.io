@@ -2,7 +2,7 @@
 title: "Why Helpers"
 bg: purple
 color: white
-fa-icon: cloud-upload
+fa-icon: thumbs-up
 ---
 
 # Why use Helpers in Korea?
