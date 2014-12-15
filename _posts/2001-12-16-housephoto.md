@@ -11,8 +11,10 @@ fa-icon: camera
 - But, when you go real house, you can know it was not good.
 - We will help you not to do disappoint.              
 
->we will visit the house and take a real photo and send photo to you.          
->It is only $ 50.       
->Please send email.  <seoulmento@gmail.com>    
+- - -
+
+- we will visit the house and take a real photo and send photo to you.          
+- It is only $ 50.       
+- Please send email.  <seoulmento@gmail.com>    
 
   
