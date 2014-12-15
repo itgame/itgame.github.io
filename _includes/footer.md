@@ -1,3 +1,3 @@
 
 
-<p>Helpers In Korea <a href="mailto:kgamestudy@gmail.com">Contact</a></p>
+<p>Helpers In Korea <a href="mailto:seoulmento@gmail.com">seoulmento@gmail.com</a></p>
